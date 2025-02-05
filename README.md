@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://s13.gifyu.com/images/b2diR.gif" alt="Banner Image">
+  <img src="https://i.ibb.co.com/ZzzFGp0C/webdev.gif" alt="Banner Image">
 </p>
 
 # 👋 Hi, I'm Khaled Bin Monowar Hossain 
