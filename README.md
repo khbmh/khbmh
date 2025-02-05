@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Banner Image">
+  <img src="https://s4.ezgif.com/tmp/ezgif-43c87d1852fc9.gif" alt="Banner Image">
 </p>
 
 # 👋 Hi, I'm Khaled Bin Monowar Hossain 
