@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image">
+  <img src="https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png" alt="Banner Image">
 </p>
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Khaled Bin Monowar Hossain 
 
-## 🚀 Frontend / Backend / Full Stack Developer  
+## 🚀 Frontend Wev Developer  
 
 ### About Me  
 - Passionate about coding, problem-solving, and building innovative web applications.  
@@ -13,7 +13,7 @@
 - Open to collaboration and contributing to open-source projects.  
 
 ### 🌱 Current Activities  
-- 🔭 I’m currently working on **[Project Name]**  
+- 🔭 I’m currently working on my own project **Taslix : A job portal**  
 - 🌱 Exploring **Next.js / React / Node.js**  
 - 💬 Open to **freelance & job opportunities**  
 
@@ -39,15 +39,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khbmh&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khbmh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khbmh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -85,9 +85,9 @@
 ---
 
 ### 📫 How to Reach Me  
-📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-📍 Location: Your City, Country  
-📞 Contact: Your Phone Number  
+📧 Email: [kbmh.mahi@gmail.com](mailto:kbmh.mahi@gmail.com)  
+📍 Location: Chattogram, Bangladesh 🇧🇩  
+📞 Contact: [+8801575040200](callto:+8801575040200)  
 
 ---
 
