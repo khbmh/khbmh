@@ -53,26 +53,26 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](YOUR_LINKEDIN_URL)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](YOUR_TWITTER_URL)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/Khbmh)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/khbmh)  
+
 
 ---
 
 ## 📌 Pinned Repositories  
-### 🚀 [Project 1 Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1_REPO)
-**Overview:** Short description of the project.  
-**Live Demo:** [Click Here](YOUR_LIVE_PROJECT_LINK)  
+### 🚀 [Project 1 Name](https://github.com/khmbh/newtova-client)
+**Overview:** Newtova, a platform where users can discover and share their tech products. This project is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and includes features like user authentication, product submission, upvoting, reviews, and a payment system for premium features.  
+**Live Demo:** [Click Here](https://newtova.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB  
-![Screenshot](YOUR_PROJECT_1_SCREENSHOT_URL)
+![Screenshot](https://i.ibb.co.com/vCsKnRZR/Screenshot-2025-02-05-190855.png)
 
 ---
 
-### 🚀 [Project 2 Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2_REPO)
-**Overview:** Short description of the project.  
-**Live Demo:** [Click Here](YOUR_LIVE_PROJECT_LINK)  
+### 🚀 [Project 2 Name](https://github.com/khmbh/auvral-client)
+**Overview:** Auvral is a web application designed to track and manage historical artifacts. Users can browse artifacts, view details, add new artifacts, like artifacts, and manage their own contributions. The application is fully responsive and includes user authentication, private routes, and CRUD operations.
+**Live Demo:** [Click Here](https://auvral.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB
-![Screenshot](YOUR_PROJECT_2_SCREENSHOT_URL)
+![Screenshot](https://i.ibb.co.com/mV9168q6/Screenshot-2025-02-05-190703.png)
 
 ---
 
