@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://d2xumecg7cd3ow.cloudfront.net/w6o0j9%2Fpreview%2F64269960%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1738763772&Signature=E2Xdb4AOkBgDBfcsByCwBBdSp0R7m2S50kWhMz6WbxqJ9alsHr9pk5kRpoFlqDo5Kysr8pQXsniJXXtF0Ob2~269ZkW8-LIGALNH0MGlyWdhFb6Bm5vbKD~-mtfZXVBclrQQQsygRdfAT-75nTlsTIBlQEZahe-N4LXVhpPfietv3RNl3vWSlOlQsbadsUQFpC3YXfAzxjDFEKLHcv4ZqooSuu6I7Fus~o6ywNXZIZoaS9cb8X190gEPSXo6XWp2KRESjr1TCpidGnT-df~mAxNTVzLj4sVBINqXhC79~smLa-x~DRJRku-tO0vp9b8yf2E1aJGQE80bWxF8496-HQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Banner Image">
+  <img src="https://s13.gifyu.com/images/b2diR.gif" alt="Banner Image">
 </p>
 
 # 👋 Hi, I'm Khaled Bin Monowar Hossain 
