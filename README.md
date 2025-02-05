@@ -22,17 +22,14 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-| Technology | | |
 |------------|------------|------------|
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
 
 ### ⚙️ Backend  
-| Technology | | |
 |------------|------------|------------|
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
 
-### 🛠️ DevOps & Tools  
-| Technology | | |
+### 🛠️  Tools  
 |------------|------------|------------|
 | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
 
@@ -69,7 +66,7 @@
 ---
 
 ## 📌 Pinned Repositories  
-### 🚀 [Project 1 Name](https://github.com/khmbh/newtova-client)
+### 🚀 [Newtova - A Product Hunting Website](https://github.com/khmbh/newtova-client)
 **Overview:** Newtova, a platform where users can discover and share their tech products. This project is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and includes features like user authentication, product submission, upvoting, reviews, and a payment system for premium features.  
 **Live Demo:** [Click Here](https://newtova.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB  
@@ -77,7 +74,7 @@
 
 ---
 
-### 🚀 [Project 2 Name](https://github.com/khmbh/auvral-client)
+### 🚀 [Auvral - Historical Artifacts Tracker](https://github.com/khmbh/auvral-client)
 **Overview:** Auvral is a web application designed to track and manage historical artifacts. Users can browse artifacts, view details, add new artifacts, like artifacts, and manage their own contributions. The application is fully responsive and includes user authentication, private routes, and CRUD operations.
 **Live Demo:** [Click Here](https://auvral.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB
@@ -85,7 +82,7 @@
 
 ---
 
-### 🚀 [Lingo-bingo](https://github.com/khbmh/lingo-bingo)
+### 🚀 [Lingo Bingo - Arabic Vocabulary Learning Platform](https://github.com/khbmh/lingo-bingo)
 **Overview:** Lingo Bingo is an interactive and user-friendly web application designed to help learners master Arabic vocabulary. Whether you're a beginner or an intermediate learner, this platform provides a structured and engaging way to expand your Arabic language skills.  
 **Live Demo:** [Click Here](https://lingo-bingo-khbmh.web.app/)  
 **Tech Stack:** React, TailwindCSS 
