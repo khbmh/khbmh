@@ -20,20 +20,22 @@
 ---
 
 ## 🛠️ Tech Stack  
+
 ### 💻 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)  
+| Technology | | |
+|------------|------------|------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+| Technology | | |
+|------------|------------|------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
 
 ### 🛠️ DevOps & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
+| Technology | | |
+|------------|------------|------------|
+| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
+
 
 ---
 
@@ -53,8 +55,15 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/Khbmh)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/khbmh)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/Khbmh">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/khbmh">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+  </a>
+</p>
+
 
 
 ---
@@ -64,7 +73,7 @@
 **Overview:** Newtova, a platform where users can discover and share their tech products. This project is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and includes features like user authentication, product submission, upvoting, reviews, and a payment system for premium features.  
 **Live Demo:** [Click Here](https://newtova.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB  
-![Screenshot](https://i.ibb.co.com/vCsKnRZR/Screenshot-2025-02-05-190855.png)
+![Screenshot](https://i.ibb.co.com/GfsbSNcN/Screenshot-2025-02-05-190855.png)
 
 ---
 
@@ -72,7 +81,7 @@
 **Overview:** Auvral is a web application designed to track and manage historical artifacts. Users can browse artifacts, view details, add new artifacts, like artifacts, and manage their own contributions. The application is fully responsive and includes user authentication, private routes, and CRUD operations.
 **Live Demo:** [Click Here](https://auvral.web.app/)  
 **Tech Stack:** React, Node.js, MongoDB
-![Screenshot](https://i.ibb.co.com/mV9168q6/Screenshot-2025-02-05-190703.png)
+![Screenshot](https://i.ibb.co.com/67HVgBPg/Screenshot-2025-02-05-190703.png)
 
 ---
 
