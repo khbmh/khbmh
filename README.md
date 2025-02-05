@@ -71,16 +71,16 @@
 ### 🚀 [Project 2 Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2_REPO)
 **Overview:** Short description of the project.  
 **Live Demo:** [Click Here](YOUR_LIVE_PROJECT_LINK)  
-**Tech Stack:** Next.js, TailwindCSS  
+**Tech Stack:** React, Node.js, MongoDB
 ![Screenshot](YOUR_PROJECT_2_SCREENSHOT_URL)
 
 ---
 
-### 🚀 [Project 3 Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3_REPO)
-**Overview:** Short description of the project.  
-**Live Demo:** [Click Here](YOUR_LIVE_PROJECT_LINK)  
-**Tech Stack:** Express, MongoDB, JWT  
-![Screenshot](YOUR_PROJECT_3_SCREENSHOT_URL)
+### 🚀 [Lingo-bingo](https://github.com/khbmh/lingo-bingo)
+**Overview:** Lingo Bingo is an interactive and user-friendly web application designed to help learners master Arabic vocabulary. Whether you're a beginner or an intermediate learner, this platform provides a structured and engaging way to expand your Arabic language skills.  
+**Live Demo:** [Click Here](https://lingo-bingo-khbmh.web.app/)  
+**Tech Stack:** React, TailwindCSS 
+![Screenshot](https://i.ibb.co.com/xSNG16RH/image.png)
 
 ---
 
