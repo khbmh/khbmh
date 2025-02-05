@@ -22,16 +22,13 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-|------------|------------|------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
 
 ### ⚙️ Backend  
-|------------|------------|------------|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
+ ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
 
 ### 🛠️  Tools  
-|------------|------------|------------|
-| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
+ ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
 
 
 ---
@@ -52,7 +49,7 @@
 ---
 
 ## 🔗 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/Khbmh">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
   </a>
