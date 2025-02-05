@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/ZzzFGp0C/webdev.gif" alt="Banner Image">
+  <img src="https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png" alt="Banner Image">
 </p>
 
 # 👋 Hi, I'm Khaled Bin Monowar Hossain 
