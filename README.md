@@ -88,7 +88,7 @@
 ---
 
 ### 📫 How to Reach Me  
-📧 Email: [kbmh.mahi@gmail.com](mailto:kbmh.mahi@gmail.com)  
+📧 Email: [khaledbinmonowarhossain@gmail.com](mailto:khaledbinmonowarhossain@gmail.com)  
 📍 Location: Chattogram, Bangladesh 🇧🇩  
 📞 Contact: [+8801575040200](callto:+8801575040200)  
 
