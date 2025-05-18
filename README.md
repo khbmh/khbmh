@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Khaled Bin Monowar Hossain 
 
-## 🚀 Frontend Wev Developer  
+## 🚀 Frontend focused full stack Wev Developer  
 
 ### About Me  
 - Passionate about coding, problem-solving, and building innovative web applications.  
@@ -13,9 +13,9 @@
 - Open to collaboration and contributing to open-source projects.  
 
 ### 🌱 Current Activities  
-- 🔭 I’m currently working on my own project **Taslix : A job portal**  
+- 🔭 I’m currently revising React.js **Doing Course: React Monster!**  
 - 🌱 Exploring **Next.js / React / Node.js**  
-- 💬 Open to **freelance & job opportunities**  
+- 💬 Open to **freelance & Remote job opportunities**  
 
 ---
 
